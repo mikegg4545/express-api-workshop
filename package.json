@@ -1,0 +1,24 @@
+{
+  "name": "express-api-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikegg4545/express-api-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikegg4545/express-api-workshop/issues"
+  },
+  "homepage": "https://github.com/mikegg4545/express-api-workshop#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
